@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... Discord: nerdgeek_1002
 - 😄 Pronouns: ... He/Him, Any
-- ⚡ Fun fact: ... I have an unoffical twin sister from another mother. She was born at the same time on the same day as me and her mom is one of my mom's friends.
+- ⚡ Fun fact: ... I have what I would consider a spiritual twin sister. She was born at the same time on the same day as me! And her mom is a friend of my mom.
 
 <!---
 KianNaderi10/KianNaderi10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
