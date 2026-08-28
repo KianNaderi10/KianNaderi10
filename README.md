@@ -3,11 +3,11 @@
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Yello, I'm Kian Naderi. I'm a 5th Computer Science Student at Cal Poly Pomona. I work on mainly school work and school projects, and I'm planning to start working on projects outside of class to broaden my skills and portfolio. I am familiar with the C++, Java, and Python programming languages, and I have also vibecoded with Claude Code in the past. 
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Laguna Niguel, California
+- 🎓 Education: California State Polytechnic University, Pomona
+- 📅 Hacking Since: August 2021
 
 ## Featured Projects
 - 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
